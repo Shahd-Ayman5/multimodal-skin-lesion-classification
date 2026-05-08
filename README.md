@@ -2,6 +2,12 @@
 
 This project implements a robust machine learning pipeline to classify skin lesions as **Benign** or **Malignant**. It leverages a multimodal approach, combining computer vision techniques for dermoscopic image analysis with tabular clinical metadata.
 
+
+## 📄 Project Report
+
+Detailed project report and methodology:  
+[View Full Report](https://drive.google.com/file/d/1Ae0AWy7-IvY1GMBD40zDx7iSGt4XwUhb/view?usp=drive_link)
+
 ## 🚀 Overview
 
 The project is split into two primary phases:
