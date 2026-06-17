@@ -64,7 +64,4 @@ Located in `multimodal-skin-class-10.ipynb`:
 | Test | 0.8579 | 0.7491 |
 
 Team Members:
-Shahd Ayman Rezk 
-Nada Hassan Mohamed 
-Rahma Fathy Hamouda 
-Nayera Sherif El-araby
+Shahd Ayman Rezk    Nada Hassan Mohamed    Rahma Fathy Hamouda   Nayera Sherif El-araby
